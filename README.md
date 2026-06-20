@@ -34,6 +34,7 @@ Run the chatbot using:  python CODE2.py
 
 ## Example
 
+```text
 ========================================
         FAQ CHATBOT
 Type 'exit' to quit
@@ -47,6 +48,7 @@ Chatbot: AI stands for Artificial Intelligence.
 
 You: exit
 Chatbot: Goodbye!
+```
 
 ## Project Objective
 
